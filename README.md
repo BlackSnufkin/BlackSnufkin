@@ -21,8 +21,7 @@ Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new
 
   
 <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="75px" alt="Git"/>&nbsp;<i><h1>Git Activeness</h1></i></p>
+<h1 align="center">Git Activeness<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="75px" alt="Git"/></h1>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
