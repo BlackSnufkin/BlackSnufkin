@@ -1,3 +1,7 @@
+![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark)]
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am BlackSnufkin </h1>
 <h3 align="center">Penetration Tester | Cyber Security Consultant </h3>
 <hr>
