@@ -18,12 +18,12 @@ Ask me anything <br>
 </div>
 
 ***
-### <center> GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></center>
+###  GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/>
 <br>
 ![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark)
 ![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark)
-<br>
+
 ***Projects I am currently working on:***
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=PT-ToolKit)](https://github.com/BlackSnufkin/PT-ToolKit) 
 
