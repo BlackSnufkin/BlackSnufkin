@@ -92,7 +92,7 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
  
  
  
- <h1 align="center">
+<h1 align="center">
   <a target="_blank">
     <img src="https://github.com/BlackSnufkin/BlackSnufkin/blob/master/Earth.gif" width="24px" style="max-width:100%;">
   </a>
@@ -203,7 +203,7 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@BlackSnufkin/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@BlackSnufkin/d4734181-1688-450d-9e66-306adde0c672.svg" >
 </a>
 <br>
 <br>
