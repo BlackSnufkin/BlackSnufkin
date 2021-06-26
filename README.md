@@ -14,7 +14,8 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new"><b>here</b></a><br>
 <i>Happy Hacking!</i> 😊
-
+![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark)]
 </div>
 
 <div align="center">
