@@ -4,7 +4,7 @@
  ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Penetration Tester | Cyber Security Consultant 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen) &emsp;![](https://img.shields.io/badge/Lives%20at-Black%20Ocean-success)  &emsp;![](https://img.shields.io/badge/Favorite_Languages-PowerShell%20%26%20Python-brightgreen) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen) &emsp;![](https://img.shields.io/badge/Lives%20at-Black%20Ocean-success)  &emsp;![](https://img.shields.io/badge/Favorite_Languages-PowerShell%20%26%20Python-brightgreen) 
 
 ---
 ![](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
