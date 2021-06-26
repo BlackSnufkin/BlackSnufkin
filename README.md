@@ -12,7 +12,7 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BlackSnufkin's Github Stats">
+<img align="center" src="[chartreuse-dark]: https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats">
 
 </br>
 </br>
