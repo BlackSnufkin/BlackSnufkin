@@ -28,12 +28,12 @@ Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
 
 <br><br><br><br><br>
+
+<hr>
+
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark">
 </p>
-<hr>
-
-
 </br>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
