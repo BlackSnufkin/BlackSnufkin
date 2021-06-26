@@ -23,10 +23,10 @@ Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new
 <hr>
 <h1 align="center">GitHub Analytics<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></h1>
 <hr>
-<h4 align="right">Visitor's count :eyes:</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
 
 <br><br><br><br><br>
 
