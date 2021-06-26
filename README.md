@@ -23,6 +23,7 @@ Ask me anything <br>
 
 ![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark)
+
 ![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark)
 
 ***Projects I am currently working on:***
