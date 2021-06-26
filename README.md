@@ -32,7 +32,7 @@ Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=chartreuse-dark">
 </p>
 </br>
 </br>
