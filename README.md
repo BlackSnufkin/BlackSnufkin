@@ -2,7 +2,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am BlackSnufkin 
 
 ##  Penetration Tester | Cyber Security Consultant 
- ***
+<br>
 &emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen) &emsp;![](https://img.shields.io/badge/Lives%20at-Black%20Ocean-success)  &emsp;![](https://img.shields.io/badge/Favorite_Languages-PowerShell%20%26%20Python-brightgreen) 
 
 ---
