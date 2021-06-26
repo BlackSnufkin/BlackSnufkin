@@ -14,18 +14,16 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new"><b>here</b></a><br>
 <i>Happy Hacking!</i> 😊
-
 </div>
-
-<div align="center">
-
-  
 <hr>
 <h1 align="center">GitHub Analytics<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></h1>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
-
+<br>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 <br><br><br><br><br>
 
 <hr>
