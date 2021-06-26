@@ -19,22 +19,14 @@ Ask me anything <br>
 
 ***
 ### <center> GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></center>
-
-<br>
-
 ![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark)
-
 ![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark)
-<br>
 ***Projects I am currently working on:***
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=PT-ToolKit)](https://github.com/BlackSnufkin/PT-ToolKit) 
 ***
 ### <center>You can reach me at :alien: </center>
 <center><code><a href="mailto:blacksnufkin42@protonmail.com"><img width="15%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"></a></code>&emsp;<code><a href="https://twitter.com/BlackSnufkin42"><img width="15%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>&emsp;<code><a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new"><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code></center>
-
 ***
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
