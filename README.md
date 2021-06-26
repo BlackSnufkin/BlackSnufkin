@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Languages-PowerShell%20%26%20Python-brightgreen" />
 </p>
 <hr>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/PowerShell/Powershell-ar21.svg"></code>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am BlackSnufkin </h1>
 <h3 align="center">Penetration Tester | Cyber Security Counsoltent </h3>
@@ -155,9 +155,19 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  
- 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <Hackers<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br>
+
+**Languages and Tools:**
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <br />
+</p>
+
+---
+
 
 
 
