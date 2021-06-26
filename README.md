@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
 *** 
 <div align="center">
-	<h2 align="center">Visitor's count :eyes:</h2>
+	<h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
 <br>
 You have finally discovered my Github profile. <br>
