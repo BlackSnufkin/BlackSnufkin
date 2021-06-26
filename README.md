@@ -43,7 +43,7 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" height="180em" /></p>
 <br><br><br><br><br>
 
 <hr>
