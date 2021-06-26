@@ -160,7 +160,7 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg" herf="https://www.linkedin.com/in/zjayers/"></code>
+  <code><a href="mailto:blacksnufkin42@protonmail.com"><img width="15%" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-ar21.svg"></a></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
