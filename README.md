@@ -17,23 +17,20 @@ Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new
 
 </div>
 
-
-
-
 <div align="center">
 
   
-  <hr>
+<hr>
   <p align="center">
  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSnufkin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="BlackSnufkin's Github Stats" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&locale=en&theme=chartreuse-dark" alt="BlackSnufkin's Github Top Languges" width="410" />
+
+<br><br><br><br><br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark">
 </p>
-<br><br><br><br><br>
-
 <hr>
 
 
