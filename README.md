@@ -61,8 +61,23 @@ or <a href="mailto:BlackSnufkin@outlook.com"><b>email</b></a> me
 
 ---
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSnufkin&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<div><p>My profile overview: </p></div>
+
+![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=PT-ToolKit)](https://github.com/BlackSnufkin/PT-ToolKit)
+
+
+<br />
 
 
 
