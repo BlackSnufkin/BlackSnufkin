@@ -1,12 +1,14 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am BlackSnufkin </h1>
+<h3 align="center">Penetration Tester | Cyber Security Counsoltent </h3>
+<hr>
  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=BlackSnufkin&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Lives-Black%20Ocean-success" />
   <img src="https://img.shields.io/badge/Languages-PowerShell%20%26%20Python-brightgreen" />
 </p>
 <hr>
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am BlackSnufkin </h1>
@@ -18,8 +20,6 @@
 
 
 <div align="center">
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <Hackers<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/BlackSnufkin/BlackSnufkin/issues/new"><b>here</b></a><br>
