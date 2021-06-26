@@ -21,7 +21,7 @@ Ask me anything <br>
 </div>
 
 ***
-## <center> GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></center>
+### <center> GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/></center>
 
 <br>
 
