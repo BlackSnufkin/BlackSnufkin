@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=BlackSnufkin&color=brightgreen" alt="watching_count" />
+
 <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
@@ -10,7 +10,9 @@
 <h3 align="center">Penetration Tester | Cyber Security Counsoltent </h3>
 
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 
