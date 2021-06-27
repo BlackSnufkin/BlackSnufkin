@@ -4,8 +4,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/Focus-Infrastructure%20PT-brightgreen) &emsp;![](https://img.shields.io/badge/Lives%20at-Black%20Ocean-success)  &emsp;![](https://img.shields.io/badge/Favorite_Languages-PowerShell%20%26%20Python-brightgreen) 
 
 ---
-![](https://github.com/BlackSnufkin/BlackSnufkin/blob/main/10.png)
 ![](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
+
+![](https://github.com/BlackSnufkin/BlackSnufkin/blob/main/10.png)
 *** 
 <div align="center">
 	<h3 align="center">Visitor's count :eyes:</h3>
