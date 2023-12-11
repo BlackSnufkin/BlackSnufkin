@@ -30,7 +30,7 @@ Ask me anything <br>
 
 ***Projects I am currently working on:***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=NovaLdr)](https://github.com/BlackSnufkin/NovaLdr) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=Rusty-Playground)](https://github.com/BlackSnufkin/BYOVD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=NovaLdr)](https://github.com/BlackSnufkin/NovaLdr) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=BYOVD)](https://github.com/BlackSnufkin/BYOVD)
 ***
 
 ### <center>You can reach me at :alien: </center>
