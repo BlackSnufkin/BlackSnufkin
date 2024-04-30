@@ -22,9 +22,9 @@ Ask me anything <br>
 ###  GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BlackSnufkin&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact))<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BlackSnufkin&theme=onedark&hide_border=false)
 
 ![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=BlackSnufkin&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
