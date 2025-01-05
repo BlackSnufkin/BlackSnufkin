@@ -22,16 +22,19 @@ Ask me anything <br>
 ###  GitHub Analytics <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="77px" alt="Git"/>
 <br>
 
-![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BlackSnufkin&theme=onedark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSnufkin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSnufkin&theme=radical&layout=compact)<br/>
+
+![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=BlackSnufkin&theme=discord&rank=-C,-B,-?)
+
+![BlackSnufkin's github stats](https://github-readme-stats.vercel.app/api?username=BlackSnufkin&theme=chartreuse-dark&rank_icon=percentile)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BlackSnufkin&theme=radical&hide_border=false)
 
 
-![Git profile Trophies](https://github-profile-trophy.vercel.app/?username=BlackSnufkin&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ***Projects I am currently working on:***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=NovaLdr)](https://github.com/BlackSnufkin/NovaLdr) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=BYOVD)](https://github.com/BlackSnufkin/BYOVD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=LitterBox)](https://github.com/BlackSnufkin/LitterBox) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSnufkin&repo=NyxInvoke)](https://github.com/BlackSnufkin/NyxInvoke)
 
 ***
 
