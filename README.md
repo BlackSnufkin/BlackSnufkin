@@ -34,7 +34,7 @@ impl OffensiveOperator {
             role: "Red Team Operator".to_string(),
             specialties: vec!["Malware Development", "Reverse Engineering", "Evasion Techniques"],
             base_of_operations: "Initial Access Guild".to_string(),
-            primary_languages: vec!["Rust", "C++", "Python],
+            primary_languages: vec!["Rust", "C++", "Python"],
         }
     }
 }
