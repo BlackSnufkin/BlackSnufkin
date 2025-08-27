@@ -79,7 +79,7 @@ impl OffensiveOperator {
 <div align="left">
 
 **Interested in collaboration? Have a challenging research problem?**  
-*Open an issue or reach out directly - always happy to discuss offensive sutff*
+*Open an issue or reach out directly - always happy to discuss Security sutff*
 
 <p align="left">
 <a href="https://discordapp.com/users/755827978214178897"><img width="80px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>&emsp;
