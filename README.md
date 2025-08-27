@@ -7,7 +7,6 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Focus-Malware%20Dev-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/BlackSnufkin)
-[![](https://img.shields.io/badge/Lives%20at-Black%20Ocean-263238?style=for-the-badge&logo=virus&logoColor=white)](https://github.com/BlackSnufkin)
 [![](https://img.shields.io/badge/Languages-Rust%20%7C%20C++%20%7C%20Python-37474F?style=for-the-badge)](https://github.com/BlackSnufkin)
 ![](https://github-vistors-counter.onrender.com/github?username=BlackSnufkin&style=for-the-badge&color=00C853)
 </div>
@@ -34,7 +33,7 @@ impl OffensiveOperator {
             handle: "BlackSnufkin".to_string(),
             role: "Red Team Operator".to_string(),
             specialties: vec!["Malware Development", "Reverse Engineering", "Evasion Techniques"],
-            base_of_operations: "Black Ocean".to_string(),
+            base_of_operations: "Initial Access Guild".to_string(),
             primary_languages: vec!["Rust", "C++", "Python],
         }
     }
