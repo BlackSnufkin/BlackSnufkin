@@ -91,5 +91,8 @@ impl OffensiveOperator {
 
 ---
 
+
+[![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=blacksnufkin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/blacksnufkin)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00ff00&height=120&section=footer&text=HACK%20THE%20PLANET&fontSize=30&fontColor=00ff00&animation=twinkling" />
 </div>
