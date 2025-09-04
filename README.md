@@ -16,7 +16,7 @@
 ## 🎯 Profile Overview
 >**You have finally discovered my Github profile.**  
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.  
-**Ask me anything** - *Happy Hacking!* 😊
+[Read my blog](https://blacksnufkin.github.io) for write-ups and research - *Happy Hacking!* 😊
 
 ```rust
 struct OffensiveOperator {
