@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=BlackSnufkin&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=35&width=800" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Red+Team+Operator;Malware+Developer;Security+Researcher;Reverse+Engineer" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Red+Team+Operator;Malware+Developer;Security+Researcher;CVE-2025-52915" alt="roles" />
 </div>
 
 	
